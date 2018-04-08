@@ -1,0 +1,21 @@
+SCC = This is a Source Code Control file
+
+[satelliteV1.3.1.vcproj]
+SCC_Aux_Path = "D:\DFH_DataBase"
+SCC_Project_Name = "$/winUDP/OSG_9A9B", ZJAAAAAA
+
+[satelliteV1.4.4.4.sln]
+SCC_Aux_Path = "D:\Code\SourceSafe"
+SCC_Project_Name = "$/OSGPlatform/OSG_StardardVersion/satelliteV1.4.4.4.root/satelliteV1.4.4.4", EIAAAAAA
+
+[9A9BOrbitAndInertiaSimulate.sln]
+SCC_Aux_Path = "D:\DFH_DataBase"
+SCC_Project_Name = "$/winUDP/OSG_9A9B", ZJAAAAAA
+
+[winOSG_9A9B.sln]
+SCC_Aux_Path = "C:\SourceSafe"
+SCC_Project_Name = "$/Failure/winOSG.root/winOSG_9A9B", SFEAAAAA
+
+[winOSG.sln]
+SCC_Aux_Path = "C:\SourceSafe"
+SCC_Project_Name = "$/Failure/winOSG.root/winOSG_9A9B", SFEAAAAA
